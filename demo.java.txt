@@ -1,0 +1,2 @@
+pusblic static void main{
+}
