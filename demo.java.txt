@@ -1,2 +1,1 @@
-pusblic static void main{
-}
+console.log("hello);
